@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Events"
+  short_description: "Check analytics events for quality and gaps"
+  default_prompt: "Use $audit-events to review whether this product flow is instrumented correctly."

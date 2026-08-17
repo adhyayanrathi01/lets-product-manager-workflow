@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Prototype"
+  short_description: "Create prototypes using product context"
+  default_prompt: "Use $build-prototype to turn this approved product direction into a testable prototype."

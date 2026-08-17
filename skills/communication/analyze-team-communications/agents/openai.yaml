@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Team Communications"
+  short_description: "Extract signals from team communication"
+  default_prompt: "Use $analyze-team-communications to analyze recent team communication about this feature."

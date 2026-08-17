@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Customer Evidence"
+  short_description: "Synthesize customer conversations and feedback"
+  default_prompt: "Use $analyze-customer-evidence to find patterns in these interviews, tickets, or sales conversations."

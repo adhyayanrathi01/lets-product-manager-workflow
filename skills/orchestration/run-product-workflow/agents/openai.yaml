@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run Product Workflow"
+  short_description: "Coordinate evidence-based product workflows"
+  default_prompt: "Use $run-product-workflow to investigate a product problem and organize the work into a project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Tracking Plan"
+  short_description: "Define product events and measurement rules"
+  default_prompt: "Use $create-tracking-plan to design the events and properties for this product flow."

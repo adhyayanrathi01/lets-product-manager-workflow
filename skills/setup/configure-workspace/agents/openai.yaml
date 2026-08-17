@@ -1,0 +1,4 @@
+interface:
+  display_name: "Configure Workspace"
+  short_description: "Configure sources, definitions, and readiness"
+  default_prompt: "Use $configure-workspace to configure this product workspace and verify which skills are ready."

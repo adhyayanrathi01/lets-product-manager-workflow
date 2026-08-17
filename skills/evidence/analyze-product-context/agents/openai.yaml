@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Product Context"
+  short_description: "Analyze product documents with traceable evidence"
+  default_prompt: "Use $analyze-product-context to analyze the relevant product documentation and return traceable evidence."

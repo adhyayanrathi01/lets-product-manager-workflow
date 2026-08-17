@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Product Usage"
+  short_description: "Analyze product behavior across available data"
+  default_prompt: "Use $analyze-product-usage to investigate how users engage with this feature."

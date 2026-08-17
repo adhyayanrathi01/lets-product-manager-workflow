@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Support Tickets"
+  short_description: "Find product signals in support tickets"
+  default_prompt: "Use $analyze-support-tickets to analyze recent tickets for this product area."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Product Flow"
+  short_description: "Validate product flows across user roles"
+  default_prompt: "Use $test-product-flow to verify this experience with the available browser testing tools."

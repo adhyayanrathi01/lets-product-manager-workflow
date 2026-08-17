@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Skills"
+  short_description: "Promote reusable learnings into workflows"
+  default_prompt: "Use $improve-skills with a target skill and improvement payload to propose or apply a safe workflow update."

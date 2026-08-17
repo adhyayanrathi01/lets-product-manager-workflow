@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Meetings"
+  short_description: "Extract evidence and decisions from meetings"
+  default_prompt: "Use $analyze-meetings to synthesize recent meetings about this product area."

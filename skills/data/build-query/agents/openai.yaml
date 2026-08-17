@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Query"
+  short_description: "Build safe queries from product questions"
+  default_prompt: "Use $build-query to translate this product question into a validated data query."

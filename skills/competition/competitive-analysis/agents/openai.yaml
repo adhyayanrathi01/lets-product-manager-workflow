@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Analysis"
+  short_description: "Research competitors and product alternatives"
+  default_prompt: "Use $competitive-analysis to compare the market and identify defensible opportunities."

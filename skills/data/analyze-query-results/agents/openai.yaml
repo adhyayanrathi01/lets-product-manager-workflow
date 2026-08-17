@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Query Results"
+  short_description: "Turn query results into grounded findings"
+  default_prompt: "Use $analyze-query-results to interpret these data results and explain their product implications."
